@@ -115,7 +115,7 @@ With these functionalities, the project combines cutting-edge machine learning w
 ### Authenticity Verification
 1. Clone this repository.
 2. Use the dataset for authenticity.
-3. Train the model using `model_autenticity.py` and save results.
+3. Train the model using `model_autenticity.ipynb` and save results.
 
 ---
 
