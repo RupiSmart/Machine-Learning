@@ -2,6 +2,8 @@
 
 ## **💵 Currency Classification and Authenticity Verification**
 
+![3](https://github.com/user-attachments/assets/f8b337a0-cbee-456f-8498-a470a7b5c7eb)
+
 Welcome to the RupiSmart Project! This repository provides solutions for two key tasks related to Indonesian currency:
 1. **Currency Denomination Classification**: Identify the denomination of coins and banknotes.
 2. **Authenticity Verification**: Detect counterfeit currency.
